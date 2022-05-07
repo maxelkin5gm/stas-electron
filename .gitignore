@@ -1,0 +1,10 @@
+# ide
+.idea
+
+# dependencies
+/node_modules
+
+# production
+/build
+/dist
+/electron-build
